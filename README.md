@@ -28,10 +28,10 @@ The Cities and Towns From the Following Provinces have been Added.
 
  3. We have already created cities that covers most cities in Zambia.
 
-To use this plugin for other countries, you will need to change the $states key from 'NG' to woocommerce recognised key for your country.
+* To use this plugin for other countries, you will need to change the $states key from 'NG' to woocommerce recognised key for your country.
 
 Thank you for using this plugin.
 
 ## License
 
-[ GPL-2.0](https://github.com/zykarsolutions/Zambian-Cities-for-Woocommerce/blob/main/LICENSE).git checkout main
+[GPL-2.0](https://github.com/zykarsolutions/Zambian-Cities-for-Woocommerce/blob/main/LICENSE)
