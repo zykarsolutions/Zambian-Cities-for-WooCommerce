@@ -5,7 +5,7 @@
  * Author: Zykar Solutions
  * Author URI: https://zykarsolutions.com
  * Description: Add shipping zones 3 levels deep for WooCommerce.
- * Version: 0.1.1
+ * Version: 0.1.7
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * License: GPL2
