@@ -6,6 +6,8 @@
  * Author URI: https://zykarsolutions.com
  * Description: Add shipping zones 3 levels deep for WooCommerce.
  * Version: 0.1.1
+ * Requires at least: 5.2
+ * Requires PHP:      7.2
  * License: GPL2
  * License URL: http://www.gnu.org/licenses/gpl-2.0.txt
  * text-domain: 2lsw
@@ -21,12 +23,12 @@ function zykarsolutions_3ld_states( $states) {
     $map = array();
 
     $cities = array(
-        // Ndola City & Townships
+        // Ndola District
         'ZM01' => array(
             'city'     => 'Ndola',
             'division' => 'Copperbelt',
         ),
-        // Kitwe City & Townships
+        // Kitwe District
         'ZM02' => array(
             'city'     => 'Kitwe',
             'division' => 'Copperbelt',
@@ -59,8 +61,60 @@ function zykarsolutions_3ld_states( $states) {
             'city'     => 'Kitwe',
             'division' => 'CBU',
         ),
+        'ZM02K8' => array(
+            'city'     => 'Kitwe',
+            'division' => 'Riverside',
+        ),
+        'ZM02K9' => array(
+            'city'     => 'Kitwe',
+            'division' => 'Kwacha',
+        ),
+        'ZM02K10' => array(
+            'city'     => 'Kitwe',
+            'division' => 'Industrial Area',
+        ),
+        'ZM02K11' => array(
+            'city'     => 'Kitwe',
+            'division' => 'Buyantanshi',
+        ),
+        'ZM02K12' => array(
+            'city'     => 'Kitwe',
+            'division' => 'Mufuchani',
+        ),
+        'ZM02K13' => array(
+            'city'     => 'Kitwe',
+            'division' => 'Garneton',
+        ),
+        'ZM02K14' => array(
+            'city'     => 'Kitwe',
+            'division' => 'Presidential',
+        ),
+        'ZM02K15' => array(
+            'city'     => 'Kitwe',
+            'division' => 'Nkana Stadium',
+        ),
+        'ZM02K16' => array(
+            'city'     => 'Kitwe',
+            'division' => 'Ndeke',
+        ),
+        'ZM02K17' => array(
+            'city'     => 'Kitwe',
+            'division' => 'Chimwemwe',
+        ),
+        'ZM02K18' => array(
+            'city'     => 'Kitwe',
+            'division' => 'Zamtan',
+        ),
+        'ZM02K19' => array(
+            'city'     => 'Kitwe',
+            'division' => 'Kitwe West',
+        ),
+        'ZM02K20' => array(
+            'city'     => 'Kitwe',
+            'division' => 'ST. Marceline',
+        ),
         // Copperbelt Province
-        'ZM0301' => array(
+        'ZM03' => array(
             'city'     => 'Chingola',
             'division' => 'Copperbelt',
         ),
@@ -117,6 +171,7 @@ function zykarsolutions_3ld_states( $states) {
             'city'      =>  'Mkushi',
             'division'  =>  'Central'
         ),
+         // Eastern Province
         'ZM16' => array(
             'city'      =>  'Chipata',
             'division'  =>  'Eastern'
@@ -133,6 +188,7 @@ function zykarsolutions_3ld_states( $states) {
             'city'      =>  'Lundazi',
             'division'  =>  'Eastern'
         ),
+         // Luapula Province
         'ZM20' => array(
             'city'      =>  'Mansa',
             'division'  =>  'Luapula'
@@ -153,6 +209,7 @@ function zykarsolutions_3ld_states( $states) {
             'city'      =>  'Mwense',
             'division'  =>  'Luapula'
         ),
+         // Lusaka Province
         'ZM24' => array(
             'city'      =>  'Luangwa',
             'division'  =>  'Lusaka'
@@ -177,6 +234,7 @@ function zykarsolutions_3ld_states( $states) {
             'city'      =>  'Luangwa',
             'division'  =>  'Lusaka'
         ),
+         // Muchinga Province
         'ZM25' => array(
             'city'      =>  'Mpika',
             'division'  =>  'Muchinga'
@@ -193,6 +251,7 @@ function zykarsolutions_3ld_states( $states) {
             'city'      =>  'Isoka',
             'division'  =>  'Muchinga'
         ),
+         // North-Western Province
         'ZM29' => array(
             'city'      =>  'Solwezi',
             'division'  =>  'North-Western'
@@ -205,6 +264,7 @@ function zykarsolutions_3ld_states( $states) {
             'city'      =>  'Kalumbila',
             'division'  =>  'North-Western'
         ),
+         // Northern Province
         'ZM32' => array(
             'city'      =>  'Kasama',
             'division'  =>  'Northern'
@@ -213,6 +273,7 @@ function zykarsolutions_3ld_states( $states) {
             'city'      =>  'Mbala',
             'division'  =>  'Northern'
         ),
+         // Southern Province
         'ZM34' => array(
             'city'      =>  'Livingstone',
             'division'  =>  'Southern'
@@ -233,6 +294,7 @@ function zykarsolutions_3ld_states( $states) {
             'city'      =>  'Kalomo',
             'division'  =>  'Southern'
         ),
+         // Western Province
         'ZM35' => array(
             'city'      =>  'Mongu',
             'division'  =>  'Western'
