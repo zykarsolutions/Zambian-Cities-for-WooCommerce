@@ -205,97 +205,97 @@ function zykarsolutions_3ld_states( $states) {
             'city'      =>  'Kawambwa',
             'division'  =>  'Luapula'
         ),
-        'ZM23' => array(
+        'ZM24' => array(
             'city'      =>  'Mwense',
             'division'  =>  'Luapula'
         ),
          // Lusaka Province
-        'ZM24' => array(
-            'city'      =>  'Luangwa',
-            'division'  =>  'Lusaka'
-        ),
         'ZM25' => array(
-            'city'      =>  'Kafue',
+            'city'      =>  'Luangwa',
             'division'  =>  'Lusaka'
         ),
         'ZM26' => array(
-            'city'      =>  'Chongwe',
+            'city'      =>  'Kafue',
             'division'  =>  'Lusaka'
         ),
         'ZM27' => array(
+            'city'      =>  'Chongwe',
+            'division'  =>  'Lusaka'
+        ),
+        'ZM28' => array(
             'city'      =>  'Luangwa',
             'division'  =>  'Lusaka'
         ),
-        'ZM24' => array(
+        'ZM29' => array(
             'city'      =>  'Lusaka',
             'division'  =>  'Lusaka'
         ),
-        'ZM24L1' => array(
+        'ZM29L1' => array(
             'city'      =>  'Luangwa',
             'division'  =>  'Lusaka'
         ),
          // Muchinga Province
-        'ZM25' => array(
+        'ZM30' => array(
             'city'      =>  'Mpika',
             'division'  =>  'Muchinga'
         ),
-        'ZM26' => array(
+        'ZM31' => array(
             'city'      =>  'Nakonde',
             'division'  =>  'Muchinga'
         ),
-        'ZM27' => array(
+        'ZM32' => array(
             'city'      =>  'Chinsali',
             'division'  =>  'Muchinga'
         ),
-        'ZM28' => array(
+        'ZM33' => array(
             'city'      =>  'Isoka',
             'division'  =>  'Muchinga'
         ),
          // North-Western Province
-        'ZM29' => array(
+        'ZM35' => array(
             'city'      =>  'Solwezi',
             'division'  =>  'North-Western'
         ),
-        'ZM30' => array(
+        'ZM36' => array(
             'city'      =>  'Mwinilunga',
             'division'  =>  'North-Western'
         ),
-        'ZM31' => array(
+        'ZM37' => array(
             'city'      =>  'Kalumbila',
             'division'  =>  'North-Western'
         ),
          // Northern Province
-        'ZM32' => array(
+        'ZM38' => array(
             'city'      =>  'Kasama',
             'division'  =>  'Northern'
         ),
-        'ZM33' => array(
+        'ZM39' => array(
             'city'      =>  'Mbala',
             'division'  =>  'Northern'
         ),
          // Southern Province
-        'ZM34' => array(
+        'ZM40' => array(
             'city'      =>  'Livingstone',
             'division'  =>  'Southern'
         ),
-        'ZM34' => array(
+        'ZM41' => array(
             'city'      =>  'Mazabuka',
             'division'  =>  'Southern'
         ),
-        'ZM34' => array(
+        'ZM42' => array(
             'city'      =>  'Choma',
             'division'  =>  'Southern'
         ),
-        'ZM34' => array(
+        'ZM43' => array(
             'city'      =>  'Chirundu',
             'division'  =>  'Southern'
         ),
-        'ZM34' => array(
+        'ZM44' => array(
             'city'      =>  'Kalomo',
             'division'  =>  'Southern'
         ),
          // Western Province
-        'ZM35' => array(
+        'ZM45' => array(
             'city'      =>  'Mongu',
             'division'  =>  'Western'
         ),
