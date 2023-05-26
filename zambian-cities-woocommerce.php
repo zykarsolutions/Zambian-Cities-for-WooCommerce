@@ -211,7 +211,7 @@ function zykarsolutions_3ld_states( $states) {
         ),
          // Lusaka Province
         'ZM25' => array(
-            'city'      =>  'Luangwa',
+            'city'      =>  'Chilanga',
             'division'  =>  'Lusaka'
         ),
         'ZM26' => array(
@@ -230,9 +230,230 @@ function zykarsolutions_3ld_states( $states) {
             'city'      =>  'Lusaka',
             'division'  =>  'Lusaka'
         ),
+         // Lusaka Distict Division (Townships)
         'ZM29L1' => array(
-            'city'      =>  'Luangwa',
-            'division'  =>  'Lusaka'
+            'city'      =>  'Lusaka',
+            'division'  =>  'Town'
+        ),
+        'ZM29L2' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Mass Media'
+        ),
+        'ZM29L3' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Long Acres'
+        ),
+        'ZM29L4' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Emmasdale'
+        ),
+        'ZM29L5' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Garden'
+        ),
+        'ZM29L6' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Rhodes Park'
+        ),
+        'ZM29L7' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'NorthMead'
+        ),
+        'ZM29L8' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'East Park'
+        ),
+        'ZM29L9' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Manda Hill'
+        ),
+        'ZM29L10' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Arcades'
+        ),
+        'ZM29L11' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'UNZA'
+        ),
+        'ZM29L12' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Olmpyia'
+        ),
+        'ZM29L13' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Roma'
+        ),
+        'ZM29L14' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Kalundu'
+        ),
+        'ZM29L15' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Nipa'
+        ),
+        'ZM29L16' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Levy Junction'
+        ),
+        'ZM29L17' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Chadleigh'
+        ),
+        'ZM29L18' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Phi'
+        ),
+        'ZM29L19' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Munali'
+        ),
+        'ZM29L20' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Downtown'
+        ),
+        'ZM29L21' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Chainama'
+        ),
+        'ZM29L22' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Kaunda Square'
+        ),
+        'ZM29L23' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Kalingalinga'
+        ),
+        'ZM29L24' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Ngombe'
+        ),
+        'ZM29L25' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Jesmondine'
+        ),
+        'ZM29L26' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Woodlands'
+        ),
+        'ZM29L27' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Nymba Yanga'
+        ),
+        'ZM29L28' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Kabulonga'
+        ),
+        'ZM29L29' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Libala South'
+        ),
+        'ZM29L30' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Chilenje'
+        ),
+        'ZM29L31' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Matero'
+        ),
+        'ZM29L32' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Chamba Valley'
+        ),
+        'ZM29L33' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Salama Park'
+        ),
+        'ZM29L34' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Ibex Hill'
+        ),
+        'ZM29L35' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Kabanana'
+        ),
+        'ZM29L36' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Mtendere'
+        ),
+        'ZM29L37' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Apex Chalala'
+        ),
+        'ZM29L38' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Avondale'
+        ),
+        'ZM29L39' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Bauleni'
+        ),
+        'ZM29L40' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Heros Stadium'
+        ),
+        'ZM29L41' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Chelston'
+        ),
+        'ZM29L42' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Obama'
+        ),
+        'ZM29L43' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Meanwood Ibex'
+        ),
+        'ZM29L44' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Lilayi'
+        ),
+        'ZM29L45' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'New Kasama'
+        ),
+        'ZM29L46' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Garden House'
+        ),
+        'ZM29L47' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Industrial Area'
+        ),
+        'ZM29L48' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Mutumbi'
+        ),
+        'ZM29L49' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Waterfalls'
+        ),
+        'ZM29L50' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Makeni'
+        ),
+        'ZM29L51' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Garden City'
+        ),
+        'ZM29L52' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Lusaka West'
+        ),
+        'ZM29L53' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Silverest'
+        ),
+        'ZM29L54' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Airport'
+        ),
+        'ZM29L55' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  'Meanwood Ndeke'
+        ),
+        'ZM29L56' => array(
+            'city'      =>  'Lusaka',
+            'division'  =>  '10 Miles'
         ),
          // Muchinga Province
         'ZM30' => array(
