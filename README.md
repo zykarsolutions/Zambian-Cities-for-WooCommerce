@@ -6,18 +6,18 @@ Add Shipping Zones that covers not only the state level in woocommerce.
 
 ## Provinces
 
-The Cities and Towns From the Following Provinces have been Added.
+Districts,Cities and Towns From the Following Provinces have been Added.
 
 - [X] Copperbelt 
-- [ ] Central
-- [ ] Eastern
-- [ ] Luapula
+- [X] Central
+- [X] Eastern
+- [X] Luapula
 - [X] Lusaka
-- [ ] Muchinga
-- [ ] North-Western
-- [ ] Northern
-- [ ] Sourthern
-- [ ] Western
+- [X] Muchinga (Need to Add More Districts)
+- [X] North-Western (Need to Add More Districts)
+- [X] Northern (Need to Add More Districts)
+- [X] Sourthern (Need to Add More Districts)
+- [X] Western (Need to Add More Districts)
 
 
 ## Quick Start
