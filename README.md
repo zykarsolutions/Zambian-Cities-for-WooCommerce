@@ -26,9 +26,9 @@ Districts,Cities and Towns From the Following Provinces have been Added.
 
  2. All you need do is edit the $cities array to fit your various location and it will resolve the problem for you.
 
- 3. We have already created cities that covers most cities in Zambia.
+ 3. We have already created cities that covers most Cities & Towns in Zambia.
 
-* To use this plugin for other countries, you will need to change the $states key from 'NG' to woocommerce recognised key for your country.
+* To use this plugin for other countries, you will need to change the $states key from 'ZM' to woocommerce recognised key for your country.
 
 Thank you for using this plugin.
 
