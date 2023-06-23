@@ -1,6 +1,6 @@
 # WordPress (WooCommerce) Plugin 
 
-Zambian Cities For WooCommerce
+Zambian Cities & Towns For WooCommerce
 
 Add Shipping Zones that covers not only the state level in woocommerce. 
 
