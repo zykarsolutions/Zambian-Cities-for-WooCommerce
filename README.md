@@ -2,7 +2,7 @@
 
 Zambian Cities & Towns For WooCommerce
 
-Add Shipping Zones that covers not only the Province/State level in WooCommerce but also Towns ans Cities. 
+Add Shipping Zones that covers not only the Province/State level in WooCommerce but also Towns & Cities. 
 
 ## Provinces
 
